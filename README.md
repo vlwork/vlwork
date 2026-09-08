@@ -6,9 +6,11 @@ Open-source утилиты и инструменты для Linux, Proxmox, си
 
 ## Projects / Проекты
 
-- [VPS Audit — Researcher Universe Labs](https://github.com/vlwork/vps-audit-Researcher-Universe-Labs)
-- [Proxmox btop Console Kiosk](https://github.com/vlwork/proxmox-btop-kiosk)
 - [Clean Name for Linux](https://github.com/vlwork/clean-name-for-linux)
+- [Proxmox btop Console Kiosk](https://github.com/vlwork/proxmox-btop-kiosk)
+- [VPS Audit — Researcher Universe Labs](https://github.com/vlwork/vps-audit-Researcher-Universe-Labs)
+- [OPDS Desk](https://github.com/vlwork/OPDS-Desk)
+- [Kalah](https://github.com/vlwork/Kalah)
 
 ## Support my projects / Поддержать мои проекты
 
